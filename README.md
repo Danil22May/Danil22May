@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Danil22May
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP
 - Languages i speak: English, Spanish, Russian, Ukrainian
 
 <!---
